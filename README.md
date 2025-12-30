@@ -10,4 +10,4 @@
 
 ![currency_correct](images/currency-correct.png)
 
-## I tested all backend endpoints using Postman, including successful and invalid requests. I verified HTTP status codes, JSON structure, and error handling.
+### I tested all backend endpoints using Postman, including successful and invalid requests. I verified HTTP status codes, JSON structure, and error handling.
